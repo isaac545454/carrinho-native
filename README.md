@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center">projeto</h1>
+<h1 style="text-align: center">Carrinho de Compras</h1>
 <img src="20221022_190142.gif">
  
 
@@ -19,7 +19,7 @@
   <li>calculo do total</li>
 </ul>
 
-<h2 style="margin-top: 20px">como rodar</h2>
+<h2 style="margin-top: 20px">Como Rodar</h2>
 <ul>
    <li>git clone https://github.com/isaac545454/carrinho-native</li>
    <li>yarn intall(baixar o node_modules)</li> 
